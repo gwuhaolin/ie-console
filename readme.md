@@ -1,4 +1,4 @@
-Protect window.console method calls, e.g. console is not defined on IE unless dev tools are open, and IE doesn't define console.debug
+Protect `window.console` method calls, e.g. `console` is not defined on IE unless dev tools are open, and IE doesn't define `console.debug`
 
 - Chrome 41.0.2272.118: debug,error,info,log,warn,dir,dirxml,table,trace,assert,count,markTimeline,profile,profileEnd,time,timeEnd,timeStamp,timeline,timelineEnd,group,groupCollapsed,groupEnd,clear
 - Firefox 37.0.1: log,info,warn,error,exception,debug,table,trace,dir,group,groupCollapsed,groupEnd,time,timeEnd,profile,profileEnd,assert,count
