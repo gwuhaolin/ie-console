@@ -1,0 +1,16 @@
+{
+  "name": "ie-console",
+  "version": "1.0.0",
+  "description": "Protect window.console method calls for IE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gwuhaolin",
+  "keywords": [
+    "js",
+    "console",
+    "IE"
+  ],
+  "license": "ISC"
+}
